@@ -24,8 +24,6 @@ public class HashMapDemo {
         }
 
         log.info("=== end put demo");
-
-
     }
 
 
