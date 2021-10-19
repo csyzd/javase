@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'javase'
-include('app')
+include('concurrency')
